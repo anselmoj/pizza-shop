@@ -1,0 +1,4 @@
+{
+  "extends": "@racsys/eslint-config/react"
+  // "extends": "@racsys/eslint-config/node"
+}
